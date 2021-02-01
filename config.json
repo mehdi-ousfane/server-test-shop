@@ -1,0 +1,9 @@
+{
+    "env": {
+        "MONGO_USER": "mehdi-ous",
+        "MONGO_PASSWORD": "boubou",
+        "MONGO_DEFAULT_DATABASE": "test?retryWrites=true&w=majority",
+        "STRIPE_KEY": "sk_test_51IBATOExkIb20QtVD6K6APxdjqIvugjpaJR5GAl5e8K0FAVXZjIv5MprFgrO9LhM56qShzm2YKJBwjx4sbqtOebq00izlkc0It"
+    }
+
+}
